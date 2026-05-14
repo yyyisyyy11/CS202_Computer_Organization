@@ -1,0 +1,8 @@
+# batch_test.hex
+# 对应 batch_test.asm 的16进制机器码
+# 使用 RISC-V 汇编器生成后替换此文件内容
+# 格式：每行一个32位指令的hex值
+# 例如：
+# 00000013    // nop (addi x0, x0, 0)
+# 
+# TODO: 使用汇编器将 batch_test.asm 转换为机器码
